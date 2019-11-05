@@ -1,0 +1,39 @@
+
+    div { background-image: url("https://wallpaperbro.com/img/13388.jpg");
+position: absolute;
+height:100%;
+width:100%;
+     
+    }
+
+    #intruction {
+        position: static;
+width: 205px;
+height: 71px;
+left: 0px;
+top: 10px;
+
+background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), rgba(255, 87, 238, 0.63);
+border-radius: 24px;
+
+    }
+
+    h1 { position: center;
+        width: 1500px;
+        height: 200px;
+        left: 0px;
+        top: 90px;
+        
+        font-family: Reenie Beanie;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 80px;
+        line-height: 80px;
+        text-align: center;
+        
+        color: #000000;
+        
+        
+    };
+
+
