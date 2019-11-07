@@ -1,6 +1,37 @@
 # Cifrado César
 
-## Índice
+BFF Secret Message 
+
+Envia mensajes cifrados con tus mejores amig@s, escribe tu mensaje y en automatico obten tu codigo para eviarlo por cualquie Red Social que presferias usar, postea mesajes secretos desde tu perfil, que solo tú y tus mejores amig@s entenderan y conversaran con el mesaje cifrado, tambien podran decifrar los mensajes desde BFF Secret Message, divierte y crea conversaciones nuevas y divertidas con un codigo que solo ustedes entenderan. 
+
+UX 
+
+.- Recomendada para adolencentes, el objetivo es afianzar las relaciones amistosas
+
+
+
+
+
+
+
+
+**`README.md`**:
+
+Debe contener lo siguiente:
+
+* Un título con el nombre de tu proyecto.
+* Un resumen de 1 o 2 líneas de qué se trata tu proyecto.
+* La imagen final de tu proyecto.
+* Investigación UX:
+  1. Explicar quiénes son los usuarios y los objetivos en relación con el
+    producto.
+  2. Explicar cómo el producto soluciona los problemas/necesidades de dichos
+    usuarios.
+  3. Luego colocarás la foto de tu primer prototipo en papel.
+  4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
+  5. Imagen del prototipo final.
+
+## Índice 
 
 * [1. Preámbulo](#1-preámbulo)
 * [2. Resumen del proyecto](#2-resumen-del-proyecto)
