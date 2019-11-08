@@ -2,11 +2,17 @@
 
 BFF Secret Message 
 
-Envia mensajes cifrados con tus mejores amig@s, escribe tu mensaje y en automatico obten tu codigo para eviarlo por cualquie Red Social que presferias usar, postea mesajes secretos desde tu perfil, que solo tú y tus mejores amig@s entenderan y conversaran con el mesaje cifrado, tambien podran decifrar los mensajes desde BFF Secret Message, divierte y crea conversaciones nuevas y divertidas con un codigo que solo ustedes entenderan. 
+Envia mensajes cifrados con tus mejores amig@s, escribe tu mensaje y en automatico obten tu codigo para eviarlo por cualquier Red Social que presferias usar, postea mesajes secretos desde tu perfil, que solo tú y tus mejores amig@s entenderán el mesaje cifrado, tambien podran decifrar los mensajes desde BFF Secret Message, divierte y crea conversaciones nuevas y divertidas con un codigo que solo ustedes entenderán . 
 
 UX 
 
-.- Recomendada para adolencentes, el objetivo es afianzar las relaciones amistosas
+.- Recomendada para adolencentes, en el cual se puden de comunicar con sus amigos de una manera diferente y devertida. 
+.-El objetivo es afianzar las relaciones amistosas, favorecer la comunicación entre el circulo de amigos. 
+.-Buscar nuevas alternativas de comunicacion que sean mas atractivas y divertidas para que los adolecentes se comuniquen dentro de su entorno. 
+
+
+![Prototipo](/imagen/prototype.png)
+
 
 
 

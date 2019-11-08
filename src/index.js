@@ -1,4 +1,9 @@
 window.onload = () => {
-    const cypherMessage = document.getElementById("message");
-    cypherMessage.addEventListener("click")
-}
+    encodeMessage = document.getElementById("message");
+    encodeMessage.addEventListener("click", function(){
+        let textMessage = document.getElementById("message").value;
+        let choiceNumber = document.getElementById("offset").value; 
+        document.getElementById("message").innerHTML = window.cipher.encode(alert(textMessage, choiceNumber)); 
+    }); 
+
+}; 
