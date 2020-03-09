@@ -2,36 +2,55 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Caesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
+    <title>Secret Message</title>
   </head>
-  <body>
-    <div id="root">
-  
+  <link rel="stylesheet" href="./style.css">
+  <body class="body">
+      <header class="headerContainer">
+        <h1>Secret Message</h1>
+      </header>
 
-  <input id ="instruction" type="button" value ="Instructiòn"/>
+          <p id ="container-offset">"Select the scroll number"</p>
+            <input type="number"  id="offset" placeholder = 0 min= "-10" max="10" >
 
-<h1>"BFF Secret Message"</h1>
-  
-  <br> 
-  <input id = "offset" type = "number" min= "-10" max="10" > 
-  <br>
-  <br> 
-       
-  <input id = "message" type="text" placeholder="Write your message"/>
-     
-  <input id = "cypher" type="submit" value="Cypher" />
-  <br>
-  <br>
-  <br> 
-  <input id = "Decrypt" type="text" placeholder="Decrypt message"/> 
-     
-  <input id="Decrypt1" type="submit" value="Decrypt" />  
-  
+            <section >
+          <article id="container-encode">
+              <div >
+                  <textarea class = "textArea" id="textAreaEncode" placeholder = "Write you message here" ></textarea><br>
 
+                   <button type ="button" id="submitButton" class="btn">Encode your message</button>
 
-    </div>
-    <script src="cipher.js"></script>
-    <script src="index.js"></script>
+              </div>
+              <div class="resultEncodecipher">
+                  <p class="resultCipher">"Your secret message is":</p><br>
+                  <p id="resultencode"></p>
+              </div>
+
+          </article>
+
+          <article class="container-decode">
+            <div >
+                <textarea class = "textArea" id="textAreaDecode" placeholder = "Write you message here" ></textarea><br>
+
+                <button type ="button" id="decodeCipherButton" class="btn">Decode your message</button>
+            </div>
+              <div class="resultDecodecipher">
+                  <p class="result-Decode">"Your secret message decode is":</p><br>
+                  <p id="resultDecode"></p>
+              </div>
+
+        </article>
+        <aside class ="aside"> </aside>
+
+        </section>
+
+    <footer>
+      <div class="footer-Faby">
+      <p >FabiolaTP</p>
+      </div>
+    </footer>
+
+  <script src="cipher.js"></script>
+  <script src="index.js"></script>
   </body>
 </html>
